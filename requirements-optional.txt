@@ -1,0 +1,5 @@
+# Optional: MP3/OGG/FLAC decoding (miniaudio or soundfile) + GIF export
+miniaudio
+soundfile
+imageio
+pillow
